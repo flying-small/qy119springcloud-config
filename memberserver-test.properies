@@ -13,7 +13,7 @@ mybatis.mapper-locations=classpath:mapper/*.xml
 #mybatis别名
 #mybatis.type-aliases-package=com.aaa.os.entity
 #当前服务端口号
-server.port=7777
+server.port=37777
 #当前服务去注册中心注册的服务名称
 spring.application.name=memberService
 #注册中心地址
